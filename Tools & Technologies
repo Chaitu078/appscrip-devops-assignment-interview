@@ -1,0 +1,5 @@
+ AWS (EKS, IAM, VPC)
+ Terraform
+ Kubernetes (kubectl, manifests)
+ ArgoCD (GitOps)
+ Optional: Ingress Controller, Route 53, Custom DNS
