@@ -1,6 +1,0 @@
-## Folder Structure
-
-- `terraform/`: Terraform code to provision EKS cluster.
-- `manifests/`: Kubernetes YAMLs for NGINX deployment and service.
-- `argocd/`: ArgoCD Application definition pointing to this repo.
-- `screenshots/`: (Optional) Screenshots of running services and DNS resolution.
