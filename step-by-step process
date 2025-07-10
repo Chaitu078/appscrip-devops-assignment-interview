@@ -1,4 +1,4 @@
 Launch an instance with admin permissions.
-install aws cli, kubectl, eksctl
+install aws cli, kubectl, eksctl, git.
 Set the path.
 Create eks cluster, attach IAM role, create node group, update cluster.
